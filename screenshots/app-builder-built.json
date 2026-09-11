@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 2493,
+      "bodyTextHash": "01b2985a72e34738270d598cc2d833d45debbabdd12a4de5e8d3b6628b40fa47",
+      "bodyTextPrefix": "Lattice SYSTEM DESIGN Studio HLD Concepts LLD Concepts System De",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 2391,
+      "bodyTextHash": "84204115e10806714a127cb79df392e1d643650b24730cf2c880d1cdf0127e4a",
+      "bodyTextPrefix": "Back Lattice SYSTEM DESIGN STUDIO Learn the map, then run the la",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

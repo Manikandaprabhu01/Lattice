@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/examples/uber",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 3478,
+      "bodyTextHash": "a12273b0c4dd8205d17173ce9f761d3257658e4d6fe5075d76419aef0517a268",
+      "bodyTextPrefix": "Lattice SYSTEM DESIGN Studio HLD Concepts LLD Concepts System De",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/arch-uber-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lattice",
+      "hasCanvas": false,
+      "bodyTextLen": 3377,
+      "bodyTextHash": "6048919bf050be1c4cb7238f2cd74a4d50be0f5addcf7f019aba9d788c8c0a27",
+      "bodyTextPrefix": "Lattice SOURCE 6 Mark studied Design Uber Source 6, Hard. Live l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/arch-uber-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/arch-uber-page.json"
+}
